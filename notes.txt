@@ -1,3 +1,4 @@
 ### some notes
 26/2/2019:
+tf.multinominal() ### sampling function according to given logits
 
